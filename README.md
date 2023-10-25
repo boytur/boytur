@@ -8,8 +8,6 @@
  
 - 🌱 I’m currently learning **Node.js , Express , MongoDB , React.js , Tailwind.css**
 
-- 🔭 I’m currently working on (Back-end) [POSYAYEE](https://github.com/boytur/POS-MERN-API)
-
 - 📫 How to reach me **mask30254@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
