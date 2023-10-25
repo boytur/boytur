@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Piyawat's</h1>
 <h3 align="center">I'm currently studing at Faculty of informatics, Software Engineering BUU.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=boytur&label=Profile%20views&color=0e75b6&style=flat" alt="boytur" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=boytur" alt="boytur" /></a> </p>
 
 - 🔭 I’m currently working on (Front-end) [POSYAYEE](https://github.com/boytur/POS-MERN-CLIENT-SIDE)
-
+- 
+- 🔭 I’m currently working on (Back-end) [POSYAYEE](https://github.com/boytur/POS-MERN-API)
+- 
 - 🌱 I’m currently learning **Node.js , Express , MongoDB , React.js , Tailwind.css**
 
 - 🔭 I’m currently working on (Back-end) [POSYAYEE](https://github.com/boytur/POS-MERN-API)
