@@ -3,9 +3,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=boytur" alt="boytur" /></a> </p>
 
 - 🔭 I’m currently working on (Front-end) [POSYAYEE](https://github.com/boytur/POS-MERN-CLIENT-SIDE)
-- 
+
 - 🔭 I’m currently working on (Back-end) [POSYAYEE](https://github.com/boytur/POS-MERN-API)
-- 
+ 
 - 🌱 I’m currently learning **Node.js , Express , MongoDB , React.js , Tailwind.css**
 
 - 🔭 I’m currently working on (Back-end) [POSYAYEE](https://github.com/boytur/POS-MERN-API)
