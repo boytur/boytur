@@ -1,13 +1,13 @@
 
-<h1 align="center">Hi 👋, I'm Piyawat Wongyat</h1>  
-<h3 align="center">I'm currently studying at the Department of Software Engineering, Faculty of Informatics, Burapha University.</h3>  
+<h1>Hi 👋, I'm Piyawat Wongyat</h1>  
+<h3>I'm currently studying at the Department of Software Engineering, Faculty of Informatics, Burapha University.</h3>  
   
 - 📑 I’m currently working on (Ongoing Project) [POSYAYEE](https://github.com/boytur/POSYAYEE) 🛒 
 - 🤯 I’m currently working on (Work in Progress) [POSYAYEE-V2](https://github.com/boytur/POSYAYEE-V2) 🛒
 - 🌱 I’m currently learning **Node.js, Express, MongoDB, React.js, Tailwind.css, MySQL, PostgreSQL**  
 - 📫 How to reach me **piyawat.wongyat@gmail.com**  
 
-# Languages and tools I'm interested in 
+### Languages and tools I'm interested in 
 <p> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer">
@@ -28,3 +28,5 @@
 <div>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=boytur&show_icons=true&locale=en&layout=compact" alt="boytur" /></p>
 </div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=boytur&label=Profile%20views&color=0e75b6&style=flat" alt="boytur" /> </p>
+
