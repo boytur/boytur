@@ -10,7 +10,9 @@
 - 📫 How to reach me **piyawat.wongyat@gmail.com**
 <div>
 <hr/>
-<p><img align="center" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs?username=boytur&show_icons=true&locale=en&layout=compact" alt="boytur" />
+<p>
+<img align="center" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs?username=boytur&show_icons=true&locale=en&layout=compact" alt="boytur" />
+</p>
 <img align="center" height="200px"  src="https://github-readme-streak-stats.herokuapp.com/?user=boytur&" alt="boytur" /></p>
 </div>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=boytur" alt="boytur" /></a> </p>
