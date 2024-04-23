@@ -25,5 +25,5 @@
 </p>
 <p>
 <hr/>
-<img width="750px"  src= "https://github.com/boytur/boytur/assets/104257779/c975a017-4f87-4ab4-8643-6db53b9643cc" />
+<img width="100%"  src= "https://github.com/boytur/boytur/assets/104257779/c975a017-4f87-4ab4-8643-6db53b9643cc" />
 </p>
