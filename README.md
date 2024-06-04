@@ -20,7 +20,7 @@
 <hr/>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,tailwind,java,mongodb,mysql,postgresql,figma,git,postman,insomnia,docker,nginx,ubuntu" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,tailwind,java,mongodb,mysql,postgresql,redis,figma,git,postman,insomnia,docker,nginx,ubuntu" />
   </a>
 </p>
 <p>
