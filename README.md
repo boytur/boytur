@@ -16,11 +16,11 @@
 <img align="center" height="200px"  src="https://github-readme-streak-stats.herokuapp.com/?user=boytur&" alt="boytur" /></p>
 </div>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=boytur" alt="boytur" /></a> </p>
-<h1>The language and tools I used to work with it<h/1>
+<h1>The language and tools I used to work with it:<h/1>
 <hr/>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,react,svelte,laravel,nodejs,express,tailwind,java,mongodb,mysql,postgresql,redis,figma,git,postman,docker,nginx,ubuntu" /> 
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,react,svelte,laravel,nodejs,express,tailwind,bootstrap,java,lua,mongodb,mysql,postgresql,redis,figma,git,postman,docker,nginx,ubuntu" /> 
   </a>
 </p>
 <p>
