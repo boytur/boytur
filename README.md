@@ -1,6 +1,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=boytur&label=Profile%20views&color=0e75b6&style=flat" alt="boytur" /> </p>
-
+<img href="https://codetime.dev" alt="CodeTime Badge" src="https://img.shields.io/endpoint?style=for-the-badge&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D24267%26project%3D%26in=0">
 <h1>Hi 👋, I'm Piyawat Wongyat</h1> 
 <h3>I'm currently studying at the Department of Software Engineering, Faculty of Informatics, Burapha University.</h3>  
   
