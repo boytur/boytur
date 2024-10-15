@@ -25,5 +25,5 @@
 </p>
 <p>
 <hr/>
-<img width="100%"  src= "https://image.posyayee.shop/IMG_0944.jpeg" />
+<img width="50%"  src= "https://image.posyayee.shop/me.JPG" />
 </p>
