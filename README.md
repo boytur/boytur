@@ -34,12 +34,12 @@ I'm a third-year Software Engineering student at the Faculty of Informatics, Bur
 
 ---
 
-<div align="center">
+<div align="left">
   <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs?username=boytur&show_icons=true&locale=en&layout=compact" alt="boytur's top languages" />
   <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=boytur" alt="boytur's streak stats" />
 </div>
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=boytur" alt="GitHub Trophies for boytur" />
   </a>
@@ -49,4 +49,6 @@ I'm a third-year Software Engineering student at the Faculty of Informatics, Bur
 
 ### 📸 **Personal Snapshot**
 ![Piyawat Wongyat](https://image.posyayee.shop/me.JPG)
+
+
 
