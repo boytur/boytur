@@ -48,7 +48,7 @@ I'm a third-year Software Engineering student at the Faculty of Informatics, Bur
 ---
 
 ### 📸 **Personal Snapshot**
-![Piyawat Wongyat](https://image.posyayee.shop/me.JPG)
+![Piyawat Wongyat](https://image.posyayee.com/me.JPG)
 
 
 
