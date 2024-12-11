@@ -53,3 +53,6 @@ I'm a third-year Software Engineering student at the Faculty of Informatics, Bur
 
 
 
+### 🐍 GitHub Contribution Snake Game
+
+![Snake animation](https://github.com/boytur/snake/blob/output/dist/snake.svg)

@@ -1,0 +1,30 @@
+name: Generate Snake Game
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: "0 21 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Generate Snake Game from GitHub Contribution Grid
+        uses: Platane/snk@v3
+        with:
+          github_user_name: boytur
+          output: dist/snake.svg
+
+      - name: Push Snake Game to repository
+        uses: EndBug/add-and-commit@v9
+        with:
+          default_author: github_actions
+          message: "Generated Snake Game"
+          add: dist/snake.svg
