@@ -23,7 +23,7 @@ I'm a third-year Software Engineering student at the Faculty of Informatics, Bur
 
 ### 📫 **Get in Touch**
 - **Email**: piyawat.wongyat@gmail.com
-- **Enail**: w.piyawat@bsospace.com
+- **Email**: w.piyawat@bsospace.com
 - **GitHub**: [boytur](https://github.com/boytur)
 
 ---
