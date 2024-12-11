@@ -23,13 +23,14 @@ I'm a third-year Software Engineering student at the Faculty of Informatics, Bur
 
 ### 📫 **Get in Touch**
 - **Email**: piyawat.wongyat@gmail.com
+- **Enail**: w.piyawat@bsospace.com
 - **GitHub**: [boytur](https://github.com/boytur)
 
 ---
 
 ### ⚙️ **Technologies and Tools**
 
-[![Skills](https://skillicons.dev/icons?i=typescript,js,java,html,css,php,react,svelte,laravel,nodejs,express,tailwind,bootstrap,java,lua,mongodb,mysql,postgresql,redis,figma,git,postman,docker,nginx,ubuntu)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=typescript,js,java,html,css,php,react,nextjs,prisma,svelte,laravel,nodejs,express,tailwind,bootstrap,java,lua,mongodb,mysql,postgresql,redis,figma,git,postman,jest,docker,jenkins,nginx,ubuntu,bash,cloudflare)](https://skillicons.dev)
 
 
 ---
