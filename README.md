@@ -51,10 +51,6 @@ I'm a third-year Software Engineering student at the Faculty of Informatics, Bur
 ### 📸 **Personal Snapshot**
 ![Piyawat Wongyat](https://image.posyayee.com/me.JPG)
 
+### 🐍 GitHub Contribution Snake Game
 
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+![Snake animation](https://raw.githubusercontent.com/boytur/boytur/output/github-contribution-grid-snake.svg)
