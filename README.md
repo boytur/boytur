@@ -51,6 +51,6 @@ I'm a third-year Software Engineering student at the Faculty of Informatics, Bur
 ### 📸 **Personal Snapshot**
 ![Piyawat Wongyat](https://image.posyayee.com/me.JPG)
 
-### 🐍 GitHub Contribution Snake Game
+### 🐍 GitHub Contribution
 
-![Snake animation](https://raw.githubusercontent.com/boytur/boytur/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/boytur/boytur/refs/heads/output/github-contribution-grid-snake.svg)
