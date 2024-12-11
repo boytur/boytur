@@ -5,7 +5,7 @@ on:
     branches:
       - main
   schedule:
-    - cron: "0 21 * * *"
+    - cron: "0 18 * * *"
   workflow_dispatch:
 
 jobs:
@@ -21,6 +21,9 @@ jobs:
         with:
           github_user_name: boytur
           output: dist/snake.svg
+
+      - name: List generated files
+        run: ls -R dist
 
       - name: Push Snake Game to repository
         uses: EndBug/add-and-commit@v9
