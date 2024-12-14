@@ -30,7 +30,7 @@ I'm a third-year Software Engineering student at the Faculty of Informatics, Bur
 
 ### ⚙️ **Technologies and Tools**
 
-[![Skills](https://skillicons.dev/icons?i=typescript,js,java,html,css,php,react,nextjs,prisma,svelte,laravel,nodejs,express,tailwind,bootstrap,java,lua,mongodb,mysql,postgresql,redis,figma,git,postman,jest,docker,jenkins,nginx,ubuntu,bash,cloudflare)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=typescript,js,java,html,css,php,react,nextjs,prisma,svelte,laravel,nodejs,express,tailwind,bootstrap,lua,mongodb,mysql,postgresql,redis,figma,git,postman,jest,docker,jenkins,nginx,ubuntu,bash,cloudflare)](https://skillicons.dev)
 
 
 ---
