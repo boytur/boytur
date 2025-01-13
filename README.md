@@ -1,3 +1,4 @@
+[![CodeTime Badge](https://img.shields.io/endpoint?style=for-the-badge&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D24267%26project%3D%26in=86400000)](https://codetime.dev)
 # Hi 👋, I'm Piyawat Wongyat
 
 I'm a third-year Software Engineering student at the Faculty of Informatics, Burapha University. I am passionate about developing impactful software solutions, with a strong focus on full-stack development, team management, and Agile methodologies.
