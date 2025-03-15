@@ -55,7 +55,7 @@ I'm a third-year Software Engineering student at the Faculty of Informatics, Bur
 | **Design Tools**  | ![Figma](https://skillicons.dev/icons?i=figma) |
 | **Version Control** | ![Git](https://skillicons.dev/icons?i=git) |
 | **APIs/Tools**    | ![Postman](https://skillicons.dev/icons?i=postman) |
-| **Learning**    | ![Spring Boot](https://skillicons.dev/icons?i=spring) ![Elysia](https://skillicons.dev/icons?i=elysia) ![Kubernetes](https://skillicons.dev/icons?i=kubernetes) |
+| **Learning**    | ![Spring Boot](https://skillicons.dev/icons?i=spring) ![Elysia](https://skillicons.dev/icons?i=elysia) ![Kubernetes](https://skillicons.dev/icons?i=kubernetes) ![Golang](https://skillicons.dev/icons?i=go) |
 
 ---
 
