@@ -1,6 +1,6 @@
 <img src="https://komarev.com/ghpvc/?username=boytur&label=Profile%20views&color=0e75b6&style=flat" alt="boytur" />
 
-[![CodeTime Badge](https://img.shields.io/endpoint?style=for-the-badge&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D24267%26project%3D%26in=86400000)](https://codetime.dev)
+[![CodeTime Badge](https://img.shields.io/endpoint?style=flat-square&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D24267)](https://codetime.dev)
 
 # Hi 👋, I'm Piyawat Wongyat
 
