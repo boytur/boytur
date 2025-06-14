@@ -1,3 +1,5 @@
+<img src="https://komarev.com/ghpvc/?username=boytur&label=Profile%20views&color=0e75b6&style=flat" alt="boytur" />
+
 [![CodeTime Badge](https://img.shields.io/endpoint?style=for-the-badge&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D24267%26project%3D%26in=86400000)](https://codetime.dev)
 
 # Hi 👋, I'm Piyawat Wongyat
@@ -14,16 +16,14 @@ I'm a fourth-year Software Engineering student at the Faculty of Informatics, Bu
 🔗 [Visit](https://sale.posyayee.com)
 
 ### 📝 BSO SPACE Blog
-- Blog platform built with **Next.js**, **Prisma**, **PostgreSQL**
-- Targeted at Software Engineering students  
-🔗 [View on GitHub](https://github.com/bsospace/blog-bsospace-mono-repo)
+- BSO Space Blog is a web-based Q&A system that answers questions based on blog articles using Retrieval-Augmented Generation (RAG). It combines powerful semantic search with a Large Language Model (LLM) like LLaMA3 to provide accurate, context-aware answers grounded in actual content. built with **Next.js15**, **GO**, **GIN**, **GORM**, **PostgreSQL** Targeted at Software Engineering students 🔗 [View on GitHub](https://github.com/bsospace/blog-bsospace-mono-repo)
 
 ---
 
 ## 🌱 Currently Learning
-- **Jenkins** for CI/CD
 - **Golang**, **Gin**, **Gorm** for lightweight services
-- **Docker**, **Agile + Jira**
+- **k8s**
+- **Agile + Jira**
 
 ---
 
@@ -41,18 +41,14 @@ I'm a fourth-year Software Engineering student at the Faculty of Informatics, Bu
 
 ---
 
-## ⚙️ Technologies and Tools
+## 🧠 Proficiency  
+![TypeScript](https://skillicons.dev/icons?i=typescript) ![React](https://skillicons.dev/icons?i=react) ![Nextjs](https://skillicons.dev/icons?i=nextjs) ![Svelte](https://skillicons.dev/icons?i=svelte)  ![Nodejs](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express) ![Laravel](https://skillicons.dev/icons?i=laravel)  ![PostgreSQL](https://skillicons.dev/icons?i=postgresql) ![MySQL](https://skillicons.dev/icons?i=mysql) ![Redis](https://skillicons.dev/icons?i=redis)  ![Prisma](https://skillicons.dev/icons?i=prisma) ![Docker](https://skillicons.dev/icons?i=docker) ![Jenkins](https://skillicons.dev/icons?i=jenkins)  ![Git](https://skillicons.dev/icons?i=git) ![Figma](https://skillicons.dev/icons?i=figma)
 
-| Category        | Stack |
-|----------------|-------|
-| **Frontend**   | ![TypeScript](https://skillicons.dev/icons?i=typescript) ![React](https://skillicons.dev/icons?i=react) ![Next.js](https://skillicons.dev/icons?i=nextjs) ![Svelte](https://skillicons.dev/icons?i=svelte) ![TailwindCSS](https://skillicons.dev/icons?i=tailwind) |
-| **Backend**    | ![Node.js](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express) ![Laravel](https://skillicons.dev/icons?i=laravel) |
-| **Database**   | ![MySQL](https://skillicons.dev/icons?i=mysql) ![PostgreSQL](https://skillicons.dev/icons?i=postgresql) ![Redis](https://skillicons.dev/icons?i=redis) |
-| **ORM**        | ![Prisma](https://skillicons.dev/icons?i=prisma) ![Sequelize](https://skillicons.dev/icons?i=sequelize) ![TypeORM](https://skillicons.dev/icons?i=typeorm) |
-| **DevOps**     | ![Docker](https://skillicons.dev/icons?i=docker) ![Jenkins](https://skillicons.dev/icons?i=jenkins) ![Nginx](https://skillicons.dev/icons?i=nginx) ![Bash](https://skillicons.dev/icons?i=bash) |
-| **Testing**    | ![Jest](https://skillicons.dev/icons?i=jest) |
-| **Design**     | ![Figma](https://skillicons.dev/icons?i=figma) |
-| **Learning**   | ![Golang](https://skillicons.dev/icons?i=go) ![Kubernetes](https://skillicons.dev/icons?i=kubernetes) |
+---
+
+## 🚀 Currently Learning  
+![Go](https://skillicons.dev/icons?i=go) ![Kubernetes](https://skillicons.dev/icons?i=kubernetes) ![Cloudflare](https://skillicons.dev/icons?i=cloudflare)
+
 
 ---
 
@@ -63,14 +59,6 @@ I'm a fourth-year Software Engineering student at the Faculty of Informatics, Bu
 ---
 
 ## 📈 GitHub Stats
-
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=boytur&label=Profile%20views&color=0e75b6&style=flat" alt="boytur" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=boytur&show_icons=true&locale=en&layout=compact" alt="Top Langs" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=boytur&show_icons=true&locale=en" alt="GitHub Stats" />
