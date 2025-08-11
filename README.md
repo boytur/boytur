@@ -4,7 +4,7 @@
 
 # Hi 👋, I'm Piyawat Wongyat
 
-I'm a fourth-year Software Engineering student at the Faculty of Informatics, Burapha University. I am passionate about developing impactful software solutions, with a strong focus on full-stack development, team management, and Agile methodologies.
+I'm a final year Software Engineering student at the Faculty of Informatics, Burapha University. I am passionate about developing impactful software solutions, with a strong focus on full-stack development, team management, and Agile methodologies.
 
 ---
 
@@ -18,6 +18,8 @@ I'm a fourth-year Software Engineering student at the Faculty of Informatics, Bu
 ### 📝 BSO SPACE Blog
 - BSO Space Blog is a web-based Q&A system that answers questions based on blog articles using Retrieval-Augmented Generation (RAG). It combines powerful semantic search with a Large Language Model (LLM) like LLaMA3 to provide accurate, context-aware answers grounded in actual content. built with **Next.js15**, **GO**, **GIN**, **GORM**, **PostgreSQL** Targeted at Software Engineering students 🔗 [View on GitHub](https://github.com/bsospace/blog-bsospace-mono-repo)
 
+## 🤖 SaaS Tobhai
+- Tobhai is an Omnichannel Chat Automation platform that enables businesses to manage and respond to customer messages from multiple channels such as Facebook, LINE, and Instagram in one place, integrating with each platform’s official APIs. It includes an AI-powered chatbot and workflow automation for instant, context-aware responses.
 ---
 
 ## 🌱 Currently Learning
