@@ -1,6 +1,10 @@
 <img src="https://komarev.com/ghpvc/?username=boytur&label=Profile%20views&color=0e75b6&style=flat" alt="boytur" />
 
 [![CodeTime Badge](https://img.shields.io/endpoint?style=flat-square&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D24267)](https://codetime.dev)
+[![JavaScript](https://shields.jannchie.com/endpoint?style=flat&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D24267%26minutes%3D525600%26color%3Df1e05a%26style%3Dflat%26language%3Djavascript)](https://codetime.dev)
+[![TypeScript](https://shields.jannchie.com/endpoint?style=flat&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D24267%26minutes%3D525600%26color%3D3178c6%26style%3Dflat%26language%3Dtypescript)](https://codetime.dev)
+[![Go](https://shields.jannchie.com/endpoint?style=flat&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D24267%26minutes%3D525600%26color%3D00ADD8%26style%3Dflat%26language%3Dgo)](https://codetime.dev)
+
 # Hi 👋, I'm Piyawat Wongyat
 
 I'm a final year Software Engineering student at the Faculty of Informatics, Burapha University. I am passionate about developing impactful software solutions, with a strong focus on full-stack development, team management, and Agile methodologies.
