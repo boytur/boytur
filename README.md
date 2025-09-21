@@ -28,8 +28,8 @@ I'm a final year Software Engineering student at the Faculty of Informatics, Bur
 ---
 
 ## 🏆 Achievements
-- 🏅 *Maha Thep Full Stack* @ OSSD#12  
-- 🎤 *Best Presentation* award for team project
+- 🏅 *Maha Thep Full Stack* @OSSD#12  
+- 🎤 *Best Presentation* award for @OSSD#12
 
 ---
 
