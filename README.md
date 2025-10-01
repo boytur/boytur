@@ -7,24 +7,7 @@
 
 # Hi 👋, I'm Piyawat Wongyat
 
-I'm a final year Software Engineering student at the Faculty of Informatics, Burapha University. I am passionate about developing impactful software solutions, with a strong focus on full-stack development, team management, and Agile methodologies.
-
----
-
-## 🔧 Projects I'm Working On
-
-### 💻 SaaS POSYAYEE
-- Modern POS system with **Express.js**, **React.js**, **Tailwind CSS**
-- Powered by **Redis** for speed and **Stripe** for payments  
-🔗 [Visit](https://sale.posyayee.com)
-
-### 📝 BSO SPACE Blog
-- BSO Space Blog is a web-based Q&A system that answers questions based on blog articles using Retrieval-Augmented Generation (RAG). It combines powerful semantic search with a Large Language Model (LLM) like LLaMA3 to provide accurate, context-aware answers grounded in actual content. built with **Next.js15**, **GO**, **GIN**, **GORM**, **PostgreSQL** Targeted at Software Engineering students </br></br>
-  🔗 [View on GitHub](https://github.com/bsospace/blog-bsospace-mono-repo) </br>
-  🔗 [Website](https://blog.bsospace.com)
-
-## 🤖 SaaS Tobhai
-- Tobhai is an Omnichannel Chat Automation platform that enables businesses to manage and respond to customer messages from multiple channels such as Facebook, LINE, and Instagram in one place, integrating with each platform’s official APIs. It includes an AI-powered chatbot and workflow automation for instant, context-aware responses.
+I'm a final year Software Engineering student at the Faculty of Informatics, Burapha University. I am passionate about developing impactful software solutions, with a strong focus on full-stack development, team management, and Agile 
 ---
 
 ## 🏆 Achievements
