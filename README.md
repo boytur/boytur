@@ -17,11 +17,7 @@ I'm a final year Software Engineering student at the Faculty of Informatics, Bur
 ---
 
 ## 📧 Contact Me
-
-- 📩 piyawat.wongyat@gmail.com  
-- 💼 w.piyawat@bsospace.com  
-- 🧑‍💻 [GitHub: boytur](https://github.com/boytur)
-
+- 💼 works@piyawat.dev  
 ---
 
 ## 🧠 Proficiency  
