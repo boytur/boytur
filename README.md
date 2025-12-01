@@ -31,9 +31,10 @@
 
 ---
 
-## 📜 Certifications  
+## 📜 Certifications & Achievements
 
-- 🧾 [**Google Project Management Coursera (Offered by Google)**](https://www.coursera.org/account/accomplishments/specialization/05NTV4BRAVOV)  
+- 🧾 [**Google Project Management Coursera (Offered by Google)**](https://www.coursera.org/account/accomplishments/specialization/05NTV4BRAVOV)
+- 🤖 [**Popular Vote at the Vision-Language Model for Smart Manufacturing Hackathon, organized by CMKL University and the AI Engineering Institute (AIEI)**](https://cmkl.ac.th/aiei-events/vision-language-model-for-smart-manufacturing-hackathon)
 
 ---
 
