@@ -5,51 +5,36 @@
 [![TypeScript](https://shields.jannchie.com/endpoint?style=flat&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D24267%26minutes%3D00%26color%3D3178c6%26style%3Dflat%26language%3Dtypescript)](https://codetime.dev)
 [![Go](https://shields.jannchie.com/endpoint?style=flat&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D24267%26minutes%3D0%26color%3D00ADD8%26style%3Dflat%26language%3Dgo)](https://codetime.dev)
 
----
 
-# 👋 Hi, I'm Piyawat Wongyat  
-🎓 Final-year Software Engineering student @Burapha University  
-💡 Passionate about full-stack development, teamwork, and impactful software.
+# Piyawat Wongyat  
+- Final-year Software Engineering student @Burapha University  
+- Passionate about full-stack development, teamwork, and impactful software.
 
----
 
-## 🧠 Tech Stack  
+## Tech Stack  
 ![Go](https://skillicons.dev/icons?i=go,typescript,react,nextjs,svelte,nodejs,express,laravel,postgresql,mysql,redis,prisma,docker,git,figma,nginx,ubuntu)
 
----
 
-## 🚀 Currently Learning  
+## Currently Learning  
 ![Kubernetes](https://skillicons.dev/icons?i=kubernetes)
 ![Cloudflare](https://skillicons.dev/icons?i=cloudflare)
 ![Linux](https://skillicons.dev/icons?i=linux)
 ![Bash](https://skillicons.dev/icons?i=bash)
 
 **Learning areas:**  
-- 🔐 Network Security & Web Exploitation  
-- 🧠 Ethical Hacking Fundamentals  
-- 🧰 Tools: Nmap, Burp Suite, Metasploit, Wireshark  
+- Network Security & Web Exploitation  
+- Ethical Hacking Fundamentals  
+- Tools: Nmap, Burp Suite, Metasploit, Wireshark  
 
----
 
-## 📜 Certifications & Achievements
+## Certifications & Achievements
 
-- 🧾 [**Google Project Management Coursera (Offered by Google)**](https://www.coursera.org/account/accomplishments/specialization/05NTV4BRAVOV)
-- 🤖 [**Popular Vote at the Vision-Language Model for Smart Manufacturing Hackathon, organized by CMKL University and the AI Engineering Institute (AIEI)**](https://cmkl.ac.th/aiei-events/vision-language-model-for-smart-manufacturing-hackathon)
+-  [**Google Project Management Coursera (Offered by Google)**](https://www.coursera.org/account/accomplishments/specialization/05NTV4BRAVOV)
+-  [**Popular Vote at the Vision-Language Model for Smart Manufacturing Hackathon, organized by CMKL University and the AI Engineering Institute (AIEI)**](https://cmkl.ac.th/aiei-events/vision-language-model-for-smart-manufacturing-hackathon)
 
----
 
-## 📸 Snapshot  
-<img src="https://image.posyayee.com/me.JPG" alt="Piyawat Wongyat" width="180"/>
+## Snapshot  
+<img src="https://bsospace.com/_next/image?url=%2Fimages%2Ffounders%2FBOM.png&w=828&q=75" alt="Piyawat Wongyat" width="180"/>
 
----
-
-## 📧 Contact  
-📩 works@piyawat.dev  
-
----
-
-## 📈 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=boytur&show_icons=true&hide_title=true" height="140" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=boytur" height="140" />
-</p>
+## Contact  
+- works@piyawat.dev
