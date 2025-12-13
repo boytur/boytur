@@ -31,7 +31,7 @@
 
 -  [**Google Project Management Coursera (Offered by Google)**](https://www.coursera.org/account/accomplishments/specialization/05NTV4BRAVOV)
 -  [**Popular Vote at the Vision-Language Model for Smart Manufacturing Hackathon, organized by CMKL University and the AI Engineering Institute (AIEI)**](https://cmkl.ac.th/aiei-events/vision-language-model-for-smart-manufacturing-hackathon)
-
+- **Ranked 61st out of 709 teams**, *Hack The Scammer CTF 2025 (Qualifying Round)* — [Leaderboard (BSOSPACE Team)](https://lab.sth.sh/leaderboard?room=37)
 
 ## Snapshot  
 <img src="https://bsospace.com/_next/image?url=%2Fimages%2Ffounders%2FBOM.png&w=828&q=75" alt="Piyawat Wongyat" width="180"/>
