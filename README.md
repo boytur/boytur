@@ -16,16 +16,8 @@
 
 
 ## Currently Learning  
-![Kubernetes](https://skillicons.dev/icons?i=kubernetes)
 ![Cloudflare](https://skillicons.dev/icons?i=cloudflare)
-![Linux](https://skillicons.dev/icons?i=linux)
-![Bash](https://skillicons.dev/icons?i=bash)
-
-**Learning areas:**  
-- Network Security & Web Exploitation  
-- Ethical Hacking Fundamentals  
-- Tools: Nmap, Burp Suite, Metasploit, Wireshark  
-
+![AWS](https://skillicons.dev/icons?i=aws)
 
 ## Certifications & Achievements
 
