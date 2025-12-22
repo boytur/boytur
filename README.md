@@ -34,10 +34,6 @@
 
 - [**Google Project Management Professional Certificate** (Offered by Google, Coursera)](https://www.coursera.org/account/accomplishments/specialization/05NTV4BRAVOV)
 
-
-## Snapshot  
-<img src="https://bsospace.com/images/founders/BOM.png" alt="Piyawat Wongyat" width="180"/>
-
 ## Contact  
 - works@piyawat.dev
 - wg.piyawat@gmail.com
