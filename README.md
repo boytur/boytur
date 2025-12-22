@@ -21,13 +21,22 @@
 
 ## Certifications & Achievements
 
--  [**Google Project Management Coursera (Offered by Google)**](https://www.coursera.org/account/accomplishments/specialization/05NTV4BRAVOV)
--  [**Popular Vote at the Vision-Language Model for Smart Manufacturing Hackathon, organized by CMKL University and the AI Engineering Institute (AIEI)**](https://drive.google.com/file/d/1sjAKh41kwvdmvfRN9_Wic6Ls8FY-mukk/view?usp=sharing)
+- **IT Specialist: Cybersecurity** — Certiport / Pearson  
+  *Demonstrates foundational knowledge of cybersecurity principles, threat awareness, and secure system practices.*  
+  [Certificate](https://drive.google.com/file/d/1sGn9c0FpjR00UtoB74tzTzhUOtjXeM7x/view?usp=sharing)
+
+- **Ranked 61st out of 709 teams**, *Hack The Scammer CTF 2025 (Qualifying Round)* —  
+  [Leaderboard (BSOSPACE Team)](https://lab.sth.sh/leaderboard?room=37)
   
-- **Ranked 61st out of 709 teams**, *Hack The Scammer CTF 2025 (Qualifying Round)* — [Leaderboard (BSOSPACE Team)](https://lab.sth.sh/leaderboard?room=37)
+- **Popular Vote Award**, Vision-Language Model for Smart Manufacturing Hackathon  
+  *(Organized by CMKL University and the AI Engineering Institute – AIEI)*  
+  [Certificate](https://drive.google.com/file/d/1sjAKh41kwvdmvfRN9_Wic6Ls8FY-mukk/view?usp=sharing)
+
+- [**Google Project Management Professional Certificate** (Offered by Google, Coursera)](https://www.coursera.org/account/accomplishments/specialization/05NTV4BRAVOV)
+
 
 ## Snapshot  
-<img src="https://bsospace.com/_next/image?url=%2Fimages%2Ffounders%2FBOM.png&w=828&q=75" alt="Piyawat Wongyat" width="180"/>
+<img src="https://bsospace.com/images/founders/BOM.png" alt="Piyawat Wongyat" width="180"/>
 
 ## Contact  
 - works@piyawat.dev
