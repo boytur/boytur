@@ -23,7 +23,7 @@
 - **IT Specialist: Cybersecurity** Certiport / Pearson *Demonstrates foundational knowledge of cybersecurity principles, threat awareness, and secure system practices.* — [Badge](https://www.credly.com/badges/f2b00e5c-3d99-48ab-93e3-4c3fa2f0af8e)
 - **Ranked 61st out of 709 teams**, *Hack The Scammer CTF 2025 (Qualifying Round)* —  [Leaderboard (BSOSPACE Team)](https://lab.sth.sh/leaderboard?room=37)
 - **Popular Vote Award**, Vision-Language Model for Smart Manufacturing Hackathon  *(Organized by CMKL University and the AI Engineering Institute – AIEI)* — [Certificate](https://drive.google.com/file/d/1sjAKh41kwvdmvfRN9_Wic6Ls8FY-mukk/view?usp=sharing)
-- Google Project Management Professional Certificate (Offered by Google, Coursera)  — [*Certificate*](https://www.coursera.org/account/accomplishments/specialization/05NTV4BRAVOV)
+- **Google Project Management Professional Certificate** (Offered by Google, Coursera)  — [*Certificate*](https://www.coursera.org/account/accomplishments/specialization/05NTV4BRAVOV)
 
 ## Contact  
 - works@piyawat.dev
