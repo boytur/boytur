@@ -5,9 +5,8 @@
 [![TypeScript](https://shields.jannchie.com/endpoint?style=flat&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D24267%26minutes%3D00%26color%3D3178c6%26style%3Dflat%26language%3Dtypescript)](https://codetime.dev)
 [![Go](https://shields.jannchie.com/endpoint?style=flat&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D24267%26minutes%3D0%26color%3D00ADD8%26style%3Dflat%26language%3Dgo)](https://codetime.dev)
 
-# Piyawat Wongyat  
-- Final-year Software Engineering student @Burapha University  
-- Passionate about full-stack development, teamwork, and impactful software.
+# Piyawat Wongyat 
+#### Software Engineer with hands-on experience in full-stack development, system architecture, and team leadership. Proven track record of delivering scalable, production-ready web applications adopted by real users. Adept at optimizing backend systems, implementing CI/CD pipelines, and integrating modern tech solutions to drive business impact web applications.
 
 
 ## Tech Stack  
