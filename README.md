@@ -10,12 +10,7 @@
 
 
 ## Tech Stack  
-![Go](https://skillicons.dev/icons?i=go,typescript,react,nextjs,svelte,nodejs,express,laravel,postgresql,mysql,redis,prisma,docker,git,figma,nginx,ubuntu)
-
-
-## Currently Learning  
-![Cloudflare](https://skillicons.dev/icons?i=cloudflare)
-![AWS](https://skillicons.dev/icons?i=aws)
+![Go](https://skillicons.dev/icons?i=go,typescript,react,nextjs,nestjs,graphql,svelte,nodejs,express,laravel,mongodb,postgresql,mysql,redis,prisma,docker,git,figma,nginx,ubuntu,cloudflare,aws,googlecloud)
 
 ## Certifications & Achievements
 
