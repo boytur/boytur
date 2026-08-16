@@ -10,7 +10,19 @@
 
 
 ## Tech Stack  
-![Go](https://skillicons.dev/icons?i=go,typescript,react,nextjs,nestjs,graphql,svelte,nodejs,express,laravel,mongodb,postgresql,mysql,redis,prisma,docker,git,figma,nginx,ubuntu,cloudflare,aws,googlecloud)
+![Current](https://skillicons.dev/icons?i=go,typescript,react,nextjs,nestjs,graphql,svelte,nodejs,express,laravel,mongodb,postgresql,mysql,redis,prisma,docker,git,figma,nginx,ubuntu,cloudflare,aws,googlecloud)
+
+![Learning](https://skillicons.dev/icons?i=rust,tauri,webgl,py,ai)
+
+## 🎓 Currently Learning
+
+**GPU Systems Engineering** — Transitioning from Full-Stack Web Dev to GPU-native systems
+
+- 🦀 [learn-gpu-engineering](https://github.com/boytur/learn-gpu-engineering) — 48-week Rust → GPU → Video curriculum (open source)
+- 📊 [Track my progress](https://github.com/boytur/learn-gpu-engineering/pull/1)
+- 🎯 Goal: Build an AI-native video engine with Rust + wgpu
+
+---
 
 ## Certifications & Achievements
 
