@@ -13,7 +13,7 @@
 ![Current](https://skillicons.dev/icons?i=go,typescript,react,nextjs,nestjs,graphql,svelte,nodejs,express,laravel,mongodb,postgresql,mysql,redis,prisma,docker,git,figma,nginx,ubuntu,cloudflare,aws,googlecloud)
 
 ## Learning
-![Learning](https://skillicons.dev/icons?i=rust,tauri,webgl,py,ai)
+![Learning](https://skillicons.dev/icons?i=rust)
 
 ---
 
